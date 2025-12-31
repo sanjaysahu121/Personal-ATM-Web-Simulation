@@ -37,4 +37,7 @@ Data Logic: Managing "bank" data using Python dictionaries.
 Form Handling: Validating user inputs to prevent negative withdrawals or over-spending.
 
 ## 🎥 Live Demo
-[ATMLogin-Personal](https://github.com/user-attachments/assets/5421baa6-b331-418d-860b-af6177207517)
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/5421baa6-b331-418d-860b-af6177207517" width="800" controls autoplay loop muted>
+  </video>
+</p>
